@@ -1,1 +1,10 @@
-oisjedioufjhsiojfmnoajdofijasiofdjguasdjfigpojsadofjioasjdpfjapofdjas
+Abrir SourceTree
+Actualizar cuentas (agregar cuenta de GitHub, actualizar el formato al de la PAT)
+Clonar proyecto (si no esta aun clonado)
+Hacer fetch
+Hacer pull si es necesario
+Seleccionar archivos que vamos a subir dentro de la sección de staged files
+Escribir comentario del commit, con descripción de lo que se subirá
+Presionar Commit
+Presionar Push
+Confirmar Push
