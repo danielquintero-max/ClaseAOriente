@@ -8,3 +8,6 @@ Escribir comentario del commit, con descripción de lo que se subirá
 Presionar Commit
 Presionar Push
 Confirmar Push
+
+Hice esta edicion como una pequeña prueba de que entendieron como utilizar sourcetree durante la clase del dia lunes. 
+Si alguien es capaz de editar este archivo y agregar la frase ¨Enterado¨ debajo de esta linea, dare la proxima clase utilizando un casco medieval.
