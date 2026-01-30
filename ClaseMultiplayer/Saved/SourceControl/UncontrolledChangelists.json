@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/Profesor/Clase4/BP_Luz.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LV/D6YV278YUXMR6B68OY1B6V.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DX/KST33K8CRW03LH6CHUKLQD.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4S/HL4EXYRWONMX7Q0TAJV2YO.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BA/CLWTBVJP1XBOZRZ0L36HIM.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0C/PLI97GSZBPRVT17I04P3T5.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HI/1Z5TBQK53M8OB63OJ1KHNW.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/F9/0X5IB44G24NYHO51RQ96PX.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/T6/XYAJK0XIECOY0V41RDVY1R.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/25/NN503P17Z09FB6G9GG8WHP.uasset",
+				"D:/Users/Fenrir/Documents/ClaseAOriente/ClaseMultiplayer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/C3/4HOKWGKVF3ST9NGYOL3JBH.uasset"
+			]
+		}
+	]
+}
