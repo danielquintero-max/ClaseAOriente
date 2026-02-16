@@ -40,7 +40,7 @@ Get Collision Response to Channel
 Transforms (Location, Rotation, Vectors, Direction, Distance, Global vs Local)
 
 
-Inputs: Input Actions, Mapping Contexts, Input Events
+Inputs: Input Actions, Mapping Contexts, Input Events, Input Types
 PseudoInputs: Direct Keys
 Mouse Cursor
 
